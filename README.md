@@ -6,4 +6,4 @@ I wrote about how to create the interactive globe in this [blog post](https://ww
 
 [![screenshot](./img/screenshot.png)](https://ralucanicola.github.io/the-globe-of-extremes/)
 
-[View it live](https://Jameswbsmith/world.github.io/index.html)
+[View it live](https://Jameswbsmith/world.github.io/)
