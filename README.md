@@ -4,6 +4,6 @@
 
 I wrote about how to create the interactive globe in this [blog post](https://www.esri.com/arcgis-blog/products/js-api-arcgis/3d-gis/interactive-3d-globe/) and John wrote about the Vibrant basemap that he created for Half-Earth project in this [blog post](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/creating-the-half-earth-vibrant-basemap/).
 
-[![screenshot](./utils/clouds-nasa.png)](https://Jameswbsmith.github.io/world/)
+[![screenshot](./img/screenshot.png)](https://ralucanicola.github.io/the-globe-of-extremes/)
 
-[View it live](https://Jameswbsmith/world/)
+[View it live](https://ralucanicola.github.io/the-globe-of-extremes/)
